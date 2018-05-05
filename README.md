@@ -19,6 +19,6 @@ The script will interpret lines of different format like new months.
 
 #### Usage
 Inside the shell:
-* `cd /path/of/the/awk/script/`
-* `chmod +x wallet.awk`
+* `cd /path/of/the/awk/script/and/text/file`
+* `chmod +x wallet.awk` this command is necessary only the first time
 * `./wallet.awk wallet.txt`
