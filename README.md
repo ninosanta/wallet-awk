@@ -21,10 +21,7 @@ The script need an input file with the right format, for instance:
     <Movement amount(positive or negative)>		<date>     <short movement description>
     <maybe a blank line>
     <Month> <year>
-    	   	.
-	   	.
-	   	.
-	  	etc...
+    and so on...
 
 
 Giving input file format for granted. After the download and either after the input file creation called, for instance, `wallet.txt`, we can put the script called `wallet.awk` and the input file togheter in the same directory. After that we can go inside the shell and do this:
@@ -33,7 +30,7 @@ Giving input file format for granted. After the download and either after the in
 * `./wallet.awk wallet.txt`
 
 
-#### Example of `wallet.txt` input file
+#### Example of input file
 
     May 2018
     -20        	2018/05/01	 grocery shop
@@ -41,3 +38,4 @@ Giving input file format for granted. After the download and either after the in
 
     June 2018
     +15		2018/06/01	 tip
+ 
