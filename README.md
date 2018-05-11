@@ -36,8 +36,8 @@ Giving input file format for granted. After the download and either after the in
 #### Example of `wallet.txt` input file
 
     May 2018
-    -20        2018/05/01	 grocery shop
-    -8         2018/05/05        pizza
+    -20        	2018/05/01	 grocery shop
+    -8         	2018/05/05       pizza
 
     June 2018
-    +15	       2018/06/01	 tip
+    +15		2018/06/01	 tip
