@@ -3,7 +3,7 @@ A minimal wallet, written in AWK language
 
 
 
-#### What this script can do?
+#### What can this script do?
 
 This sorta of wallet allows to keep an eye on our personal income and expenditure.
 
