@@ -18,18 +18,18 @@ For the moment, the script uses only the first field of the lines with the incom
 The script need an input file with the right format, for instance:
 
     <Month> <year>
-    <Movement amount(positive or negative)>	<date>     <short movement description>
+    <Movement amount(positive or negative)>		<date>     <short movement description>
     <maybe a blank line>
     <Month> <year>
-    	   .
-	   .
-	   .
-	  etc...
+    	   	.
+	   	.
+	   	.
+	  	etc...
 
 
 Giving input file format for granted. After the download and either after the input file creation called, for instance, `wallet.txt`, we can put the script called `wallet.awk` and the input file togheter in the same directory. After that we can go inside the shell and do this:
 * `cd /path/of/the/awk/script/and/text/file`
-* `chmod +x wallet.awk` this command is necessary only the first time
+* `chmod +x wallet.awk` this command is necessary first time only
 * `./wallet.awk wallet.txt`
 
 
