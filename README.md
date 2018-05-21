@@ -12,8 +12,8 @@ This sorta of wallet allows to keep an eye on our personal income and expenditur
 
 For the moment, the script uses only the first field of the lines with the income or the outcome. An entrance is represented by a line that strart with `+n` an expenditure line, instead, starts `-n` where **n** is the amount of the "movement".  The script will interpret no blank lines of different format like new months.
 It is possible to obtain two kind of output:
-*A final global overview that shows only the total residual amount
-*A monthly overview that shows even the total residual amount for all the months
+* A final global overview that shows only the total residual amount
+* A monthly overview that shows even the total residual amount for all the months
 
 #### Usage
 
