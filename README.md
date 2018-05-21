@@ -41,3 +41,13 @@ Giving input file format for granted. After the download and either after the in
     June 2018
     +15		2018/06/01	 tip
  
+ 
+
+#### `enqueue_walle.sh`
+
+`enqueue_walle.sh` is a bash script that allows to easily add new movements to your `wallet.txt` file.
+  
+   > Usage:
+   
+   * `chmod +x enqueue_walle.sh` this command is necessary first time only
+   * `./enqueue_walle.sh`
