@@ -45,7 +45,9 @@ Giving input file format for granted. After the download and either after the in
 
 #### `enqueue_walle.sh`
 
-`enqueue_walle.sh` is a bash script that allows to easily add new movements to your `wallet.txt` file.
+`enqueue_walle.sh` is a bash script that allows to easily add new movements to your `wallet.txt` file with the following format:
+
+    <amount>            <today_date (is automaticcally added)>           <description>
   
    > Usage:
    
